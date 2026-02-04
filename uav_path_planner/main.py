@@ -73,7 +73,6 @@ def initialize_system(args):
     logger.info(f"配置文件: {args.config or '使用預設配置'}")
     
     # 載入飛行器配置
-    from config.settings import get_settings
     from utils.file_io import read_yaml
     import os
     
@@ -101,53 +100,57 @@ def run_gui_mode(logger, settings, vehicle_profiles):
         try:
             from PyQt6.QtWidgets import QApplication
             from PyQt6.QtCore import Qt
+            
+            # 重要：在創建 QApplication 之前導入 WebEngine
+            # 這是 PyQt6 WebEngine 的已知要求
+            try:
+                from PyQt6.QtWebEngineWidgets import QWebEngineView
+                logger.info("QtWebEngineWidgets 載入成功")
+            except ImportError:
+                logger.warning("QtWebEngineWidgets 未安裝，地圖功能可能受限")
+                
         except ImportError:
             logger.error("PyQt6 未安裝，無法啟動 GUI 模式")
             logger.info("請安裝: pip install PyQt6 PyQt6-WebEngine")
             return 1
+        
+        # 設置 OpenGL 共享上下文（WebEngine 需要）
+        try:
+            QApplication.setAttribute(Qt.ApplicationAttribute.AA_ShareOpenGLContexts, True)
+        except Exception as e:
+            logger.warning(f"設置 OpenGL 共享上下文失敗: {e}")
         
         # 創建應用程式
         app = QApplication(sys.argv)
         app.setApplicationName("UAV Path Planner")
         app.setOrganizationName("UAV Team")
         
-        # PyQt6 已默認啟用高DPI支持，移除以下設置
-        # app.setAttribute(Qt.ApplicationAttribute.AA_EnableHighDpiScaling, True)
-        # app.setAttribute(Qt.ApplicationAttribute.AA_UseHighDpiPixmaps, True)
-        
-        # 導入主視窗 (TODO: 實現 UI 模組後取消註解)
-        # from ui.main_window import MainWindow
-        # window = MainWindow(settings, vehicle_profiles)
-        # window.show()
+        # 導入並創建主視窗
+        from ui.main_window import MainWindow
+        window = MainWindow()
+        window.show()
         
         logger.info("GUI 啟動成功")
-        logger.warning("注意: UI 模組尚未實現，暫時顯示空白視窗")
-        
-        # TODO: 移除這段臨時代碼
-        from PyQt6.QtWidgets import QMainWindow, QLabel
-        from PyQt6.QtCore import Qt as QtCore
-        
-        class TempWindow(QMainWindow):
-            def __init__(self):
-                super().__init__()
-                self.setWindowTitle("UAV Path Planner - 開發中")
-                self.setGeometry(100, 100, 1200, 800)
-                label = QLabel("UAV Path Planner v2.0\n\n核心系統已建立\nUI 模組開發中...", self)
-                label.setAlignment(QtCore.AlignmentFlag.AlignCenter)
-                label.setStyleSheet("font-size: 24px; color: #2196F3;")
-                self.setCentralWidget(label)
-        
-        window = TempWindow()
-        window.show()
         
         return app.exec()
     
     except Exception as e:
-        # 移除 exc_info 參數
         logger.error(f"GUI 啟動失敗: {e}")
         import traceback
-        traceback.print_exc()  # 直接打印堆疊追蹤
+        traceback.print_exc()
         return 1
+
+
+def run_cli_mode(logger, settings, vehicle_profiles):
+    """運行命令列模式"""
+    logger.info("啟動 CLI 模式...")
+    logger.warning("CLI 模式尚未完整實現")
+    
+    # TODO: 實現命令列模式功能
+    print("UAV Path Planner - 命令列模式")
+    print("此功能正在開發中...")
+    
+    return 0
 
 
 def main():
@@ -176,7 +179,6 @@ def main():
         return 0
     
     except Exception as e:
-        # 移除 exc_info 參數
         logger.error(f"程式異常終止: {e}")
         import traceback
         traceback.print_exc()

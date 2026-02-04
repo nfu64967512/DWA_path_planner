@@ -9,5 +9,6 @@ from ui.widgets.mission_panel import MissionPanel
 __all__ = [
     'MapWidget',
     'ParameterPanel',
-    'MissionPanel',
+    'MissionPanel'
+    'StatusBar',
 ]

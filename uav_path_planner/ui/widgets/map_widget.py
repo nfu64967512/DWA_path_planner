@@ -15,8 +15,12 @@ from PyQt6.QtCore import pyqtSignal, pyqtSlot, QObject, QUrl
 import folium
 from folium import plugins
 
-from config import Config
-from logger_utils import logger
+from config import get_settings
+from utils.logger import get_logger
+
+# 獲取配置和日誌實例
+settings = get_settings()
+logger = get_logger()
 
 
 class MapBridge(QObject):
@@ -83,6 +87,14 @@ class MapWidget(QWidget):
         
         # 創建 WebEngine 視圖
         self.web_view = QWebEngineView()
+        
+        # 允許載入外部資源（修復 Leaflet CDN 問題）
+        from PyQt6.QtWebEngineCore import QWebEngineSettings
+        web_settings = self.web_view.settings()
+        web_settings.setAttribute(QWebEngineSettings.WebAttribute.LocalContentCanAccessRemoteUrls, True)
+        web_settings.setAttribute(QWebEngineSettings.WebAttribute.JavascriptEnabled, True)
+        web_settings.setAttribute(QWebEngineSettings.WebAttribute.LocalStorageEnabled, True)
+        
         layout.addWidget(self.web_view)
         
         # 設置 Web Channel（用於 JavaScript 通訊）
@@ -98,13 +110,39 @@ class MapWidget(QWidget):
     def init_map(self):
         """初始化地圖"""
         try:
-            # 創建 folium 地圖
+            # 創建 folium 地圖（使用 Google 衛星圖資）
             self.current_map = folium.Map(
-                location=Config.DEFAULT_POSITION,
-                zoom_start=Config.DEFAULT_ZOOM,
-                tiles='OpenStreetMap',
+                location=(settings.map.default_lat, settings.map.default_lon),
+                zoom_start=settings.map.default_zoom,
+                tiles=None,  # 不使用預設圖層
                 control_scale=True
             )
+            
+            # 添加 Google 衛星圖層（預設）
+            folium.TileLayer(
+                tiles='https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',
+                attr='Google Satellite',
+                name='Google 衛星',
+                overlay=False,
+                control=True
+            ).add_to(self.current_map)
+            
+            # 添加 Google 地圖圖層
+            folium.TileLayer(
+                tiles='https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',
+                attr='Google Maps',
+                name='Google 地圖',
+                overlay=False,
+                control=True
+            ).add_to(self.current_map)
+            
+            # 添加 OpenStreetMap 圖層
+            folium.TileLayer(
+                tiles='OpenStreetMap',
+                name='OpenStreetMap',
+                overlay=False,
+                control=True
+            ).add_to(self.current_map)
             
             # 添加圖層控制
             folium.LayerControl().add_to(self.current_map)
@@ -152,7 +190,7 @@ class MapWidget(QWidget):
             
         except Exception as e:
             logger.error(f"渲染地圖失敗: {e}")
-    
+
     def inject_javascript(self, html: str) -> str:
         """
         注入 JavaScript 代碼以實現互動功能
@@ -169,18 +207,35 @@ class MapWidget(QWidget):
         // 初始化 Web Channel
         var bridge = null;
         
-        new QWebChannel(qt.webChannelTransport, function(channel) {
-            bridge = channel.objects.bridge;
-            
-            // 監聽地圖點擊事件
-            if (typeof map !== 'undefined') {
-                map.on('click', function(e) {
-                    if (bridge) {
-                        bridge.on_map_click(e.latlng.lat, e.latlng.lng);
-                    }
-                });
+        // 查找 folium 生成的地圖物件（變數名稱為 map_xxxxx）
+        function findMapObject() {
+            for (var key in window) {
+                if (key.startsWith('map_') && window[key] && typeof window[key].on === 'function') {
+                    return window[key];
+                }
             }
-        });
+            return null;
+        }
+        
+        // 延遲初始化，確保地圖已載入
+        setTimeout(function() {
+            new QWebChannel(qt.webChannelTransport, function(channel) {
+                bridge = channel.objects.bridge;
+                
+                // 找到地圖物件
+                var mapObj = findMapObject();
+                
+                if (mapObj && bridge) {
+                    // 監聽地圖點擊事件
+                    mapObj.on('click', function(e) {
+                        bridge.on_map_click(e.latlng.lat, e.latlng.lng);
+                    });
+                    console.log('地圖點擊事件已綁定');
+                } else {
+                    console.log('找不到地圖物件或 bridge');
+                }
+            });
+        }, 1000);  // 等待 1 秒讓地圖完全載入
         
         // 標記移動處理函數
         function onMarkerDragEnd(index) {
@@ -396,8 +451,8 @@ class MapWidget(QWidget):
     
     def reset_view(self):
         """重置視圖到預設位置"""
-        self.current_map.location = Config.DEFAULT_POSITION
-        self.current_map.zoom_start = Config.DEFAULT_ZOOM
+        self.current_map.location = (settings.map.default_lat, settings.map.default_lon)
+        self.current_map.zoom_start = settings.map.default_zoom
         self.render_map()
         
         logger.info("視圖已重置")

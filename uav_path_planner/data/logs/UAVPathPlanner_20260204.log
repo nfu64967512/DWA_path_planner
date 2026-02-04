@@ -1,0 +1,463 @@
+2026-02-04 02:00:04 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:00:04 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:00:04 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:00:04 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:00:04 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:00:04 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:00:04 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:00:05 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-04 02:00:05 - UAVPathPlanner - [33mWARNING[0m - 注意: UI 模組尚未實現，暫時顯示空白視窗
+2026-02-04 02:00:11 - UAVPathPlanner - [32mINFO[0m - 用戶中斷程式
+2026-02-04 02:00:11 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-04 02:05:28 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:05:28 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:05:28 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:05:28 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:05:28 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:05:28 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:05:28 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:05:28 - UAVPathPlanner - [31mERROR[0m - GUI 啟動失敗: cannot import name 'Config' from 'config' (c:\Users\admin\Desktop\global_path\uav_path_planner\config\__init__.py)
+2026-02-04 02:05:28 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-04 02:12:57 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:12:57 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:12:57 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:12:57 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:12:57 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:12:57 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:12:57 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:12:58 - UAVPathPlanner - [31mERROR[0m - GUI 啟動失敗: cannot import name 'MissionWaypoint' from 'mission.mission_manager' (c:\Users\admin\Desktop\global_path\uav_path_planner\mission\mission_manager.py)
+2026-02-04 02:12:58 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-04 02:15:54 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:15:54 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:15:54 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:15:54 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:15:54 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:15:54 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:15:54 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:15:55 - UAVPathPlanner - [31mERROR[0m - GUI 啟動失敗: QtWebEngineWidgets must be imported or Qt.AA_ShareOpenGLContexts must be set before a QCoreApplication instance is created
+2026-02-04 02:15:55 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-04 02:18:03 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:18:03 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:18:03 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:18:03 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:18:03 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:18:03 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:18:03 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:18:04 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-04 02:18:04 - UAVPathPlanner - [31mERROR[0m - GUI 啟動失敗: cannot import name 'Config' from 'config' (c:\Users\admin\Desktop\global_path\uav_path_planner\config\__init__.py)
+2026-02-04 02:18:04 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-04 02:23:42 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:23:42 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:23:42 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:23:42 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:23:42 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:23:42 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:23:42 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:23:42 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-04 02:23:42 - UAVPathPlanner - [31mERROR[0m - GUI 啟動失敗: cannot import name 'Config' from 'config' (c:\Users\admin\Desktop\global_path\uav_path_planner\config\__init__.py)
+2026-02-04 02:23:42 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-04 02:29:00 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:29:00 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:29:00 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:29:00 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:29:00 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:29:00 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:29:00 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:29:00 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-04 02:29:00 - UAVPathPlanner - [31mERROR[0m - GUI 啟動失敗: No module named 'logger_utils'
+2026-02-04 02:29:00 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-04 02:33:49 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:33:49 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:33:49 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:33:49 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:33:49 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:33:49 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:33:49 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:33:49 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-04 02:33:49 - UAVPathPlanner - [31mERROR[0m - GUI 啟動失敗: No module named 'logger_utils'
+2026-02-04 02:33:49 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-04 02:33:55 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:33:55 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:33:55 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:33:55 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:33:55 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:33:55 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:33:55 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:33:55 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-04 02:33:56 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-04 02:33:56 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-04 02:33:56 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-04 02:33:56 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-04 02:33:57 - UAVPathPlanner - [31mERROR[0m - GUI 啟動失敗: arguments did not match any overloaded call:
+  addAction(self, icon: QIcon, text: Optional[str]): argument 1 has unexpected type 'str'
+  addAction(self, icon: QIcon, text: Optional[str], slot: PYQT_SLOT, type: Qt.ConnectionType = Qt.AutoConnection): argument 1 has unexpected type 'str'
+  addAction(self, icon: QIcon, text: Optional[str], shortcut: Union[QKeySequence, QKeySequence.StandardKey, Optional[str], int]): argument 1 has unexpected type 'str'
+  addAction(self, icon: QIcon, text: Optional[str], shortcut: Union[QKeySequence, QKeySequence.StandardKey, Optional[str], int], slot: PYQT_SLOT, type: Qt.ConnectionType = Qt.AutoConnection): argument 1 has unexpected type 'str'
+  addAction(self, text: Optional[str]): too many arguments
+  addAction(self, text: Optional[str], shortcut: Union[QKeySequence, QKeySequence.StandardKey, Optional[str], int]): argument 2 has unexpected type 'method'
+  addAction(self, text: Optional[str], slot: PYQT_SLOT, type: Qt.ConnectionType = Qt.AutoConnection): argument 3 has unexpected type 'str'
+  addAction(self, text: Optional[str], shortcut: Union[QKeySequence, QKeySequence.StandardKey, Optional[str], int], slot: PYQT_SLOT, type: Qt.ConnectionType = Qt.AutoConnection): argument 2 has unexpected type 'method'
+  addAction(self, action: Optional[QAction]): argument 1 has unexpected type 'str'
+2026-02-04 02:33:57 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-04 02:40:09 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:40:09 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:40:09 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:40:09 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:40:09 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:40:09 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:40:09 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:40:09 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-04 02:40:10 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-04 02:40:10 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-04 02:40:10 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-04 02:40:10 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-04 02:40:10 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\admin\Desktop\global_path\uav_path_planner\ui\resources\styles\dark_theme.qss
+2026-02-04 02:40:10 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-04 02:40:10 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-04 02:40:20 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'flight_mode': 'synchronous'}
+2026-02-04 02:40:31 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-04 02:45:23 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:45:23 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:45:23 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:45:23 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:45:23 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:45:23 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:45:23 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:45:23 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-04 02:45:24 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-04 02:45:24 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-04 02:45:24 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-04 02:45:24 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-04 02:45:24 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\admin\Desktop\global_path\uav_path_planner\ui\resources\styles\dark_theme.qss
+2026-02-04 02:45:24 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-04 02:45:24 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-04 02:45:32 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 19.0}
+2026-02-04 02:45:33 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'subdivisions': 2}
+2026-02-04 02:45:33 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'region_spacing': 2.0}
+2026-02-04 02:45:33 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'region_spacing': 1.0}
+2026-02-04 02:45:40 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'subdivisions': 1}
+2026-02-04 02:45:48 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-04 02:45:48 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-04 02:45:48 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-04 02:45:48 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-04 02:45:48 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-04 02:45:48 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-04 02:45:48 - UAVPathPlanner - [32mINFO[0m - 已清除全部
+2026-02-04 02:45:48 - UAVPathPlanner - [32mINFO[0m - 創建新任務
+2026-02-04 02:46:16 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-04 02:46:16 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-04 02:46:16 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-04 02:46:16 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-04 02:46:16 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-04 02:46:16 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-04 02:46:16 - UAVPathPlanner - [32mINFO[0m - 已清除全部
+2026-02-04 02:46:16 - UAVPathPlanner - [32mINFO[0m - 請求清除: all
+2026-02-04 02:46:18 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -8.0}
+2026-02-04 02:46:18 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -1.0}
+2026-02-04 02:46:18 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -4.0}
+2026-02-04 02:46:18 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -7.0}
+2026-02-04 02:46:18 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -10.0}
+2026-02-04 02:46:18 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 0.0}
+2026-02-04 02:46:18 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -19.0}
+2026-02-04 02:46:18 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -6.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -19.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -15.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -18.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -24.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -27.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -31.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -34.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -43.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -49.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -52.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -55.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -58.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -61.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -64.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -67.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -70.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -67.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -64.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -61.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -58.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -55.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -52.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -49.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -46.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -43.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -40.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -37.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -34.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -31.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -27.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -24.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -21.0}
+2026-02-04 02:46:19 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -18.0}
+2026-02-04 02:46:35 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-04 02:46:35 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-04 02:56:10 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:56:10 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 02:56:10 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 02:56:10 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 02:56:10 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 02:56:10 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 02:56:10 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 02:56:10 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-04 02:56:10 - UAVPathPlanner - [31mERROR[0m - 地圖初始化失敗: 'MapWidget' object has no attribute 'render_map'
+2026-02-04 02:56:14 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-04 02:56:14 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-04 02:56:14 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-04 02:56:14 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\admin\Desktop\global_path\uav_path_planner\ui\resources\styles\dark_theme.qss
+2026-02-04 02:56:14 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-04 02:56:14 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-04 02:56:16 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'yaw_speed': 61.0}
+2026-02-04 03:03:25 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 03:03:25 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 03:03:25 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 03:03:25 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 03:03:25 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 03:03:25 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 03:03:25 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 03:03:25 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-04 03:03:26 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-04 03:03:26 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-04 03:03:26 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-04 03:03:26 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-04 03:03:26 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\admin\Desktop\global_path\uav_path_planner\ui\resources\styles\dark_theme.qss
+2026-02-04 03:03:26 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-04 03:03:26 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-04 03:03:41 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'subdivisions': 6}
+2026-02-04 03:04:23 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-04 03:04:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'reduce_overlap': False}
+2026-02-04 03:04:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'reduce_overlap': False}
+2026-02-04 03:04:58 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'reduce_overlap': False}
+2026-02-04 03:04:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'reduce_overlap': False}
+2026-02-04 03:05:01 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'flight_mode': 'synchronous'}
+2026-02-04 03:05:03 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'flight_mode': 'smart_collision'}
+2026-02-04 03:05:06 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'region_spacing': 4.0}
+2026-02-04 03:05:07 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'region_spacing': 3.0}
+2026-02-04 03:05:19 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-04 03:05:20 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-04 11:57:11 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 11:57:11 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-04 11:57:11 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-04 11:57:11 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-04 11:57:11 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-04 11:57:11 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-04 11:57:11 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-04 11:57:13 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-04 11:57:16 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-04 11:57:16 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-04 11:57:16 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-04 11:57:16 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-04 11:57:17 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\admin\Desktop\global_path\uav_path_planner\ui\resources\styles\dark_theme.qss
+2026-02-04 11:57:17 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-04 11:57:17 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-04 11:57:33 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 72.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 86.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 89.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 92.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 95.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 98.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 101.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 137.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 149.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 164.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 174.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 180.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 177.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 174.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 171.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 164.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 161.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 149.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 146.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 137.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 127.0}
+2026-02-04 11:57:34 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 124.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 121.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 118.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 115.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 112.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 106.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 99.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 78.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 69.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 54.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 42.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 31.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 19.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 16.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 10.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 1.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -11.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 3.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -17.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -3.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -16.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -12.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -15.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -24.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -27.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -31.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -37.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -40.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -43.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -46.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -52.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -55.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -58.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -61.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -64.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -67.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -70.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -73.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -76.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -79.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -82.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -85.0}
+2026-02-04 11:57:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -88.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -92.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -95.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -98.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -101.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -99.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -107.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -105.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -109.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -112.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -115.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -118.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -122.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -125.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -128.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -141.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -154.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -164.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -177.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -180.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -177.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -174.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -170.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -167.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -154.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -151.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -141.0}
+2026-02-04 11:57:36 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -125.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -105.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -86.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -73.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -70.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -52.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -37.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -24.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -18.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -12.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -6.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -7.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 4.0}
+2026-02-04 11:57:37 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': 3.0}
+2026-02-04 11:57:53 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 49.0}
+2026-02-04 11:57:53 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 50.0}
+2026-02-04 11:57:53 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 51.0}
+2026-02-04 11:57:53 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 52.0}
+2026-02-04 11:57:54 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 53.0}
+2026-02-04 11:57:54 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 54.0}
+2026-02-04 11:57:54 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 55.0}
+2026-02-04 11:57:54 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 56.0}
+2026-02-04 11:57:55 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 57.0}
+2026-02-04 11:57:55 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 58.0}
+2026-02-04 11:57:55 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 59.0}
+2026-02-04 11:57:55 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 60.0}
+2026-02-04 11:57:55 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 61.0}
+2026-02-04 11:57:55 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 62.0}
+2026-02-04 11:57:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 63.0}
+2026-02-04 11:57:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 64.0}
+2026-02-04 11:57:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 65.0}
+2026-02-04 11:57:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 66.0}
+2026-02-04 11:57:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 67.0}
+2026-02-04 11:57:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 68.0}
+2026-02-04 11:57:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 69.0}
+2026-02-04 11:57:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 70.0}
+2026-02-04 11:57:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 71.0}
+2026-02-04 11:57:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 72.0}
+2026-02-04 11:57:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 73.0}
+2026-02-04 11:57:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 74.0}
+2026-02-04 11:57:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 75.0}
+2026-02-04 11:57:58 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 76.0}
+2026-02-04 11:57:58 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 77.0}
+2026-02-04 11:57:58 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 78.0}
+2026-02-04 11:57:58 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 79.0}
+2026-02-04 11:57:58 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 80.0}
+2026-02-04 11:57:58 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 81.0}
+2026-02-04 11:57:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 82.0}
+2026-02-04 11:57:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 83.0}
+2026-02-04 11:57:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 84.0}
+2026-02-04 11:57:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 85.0}
+2026-02-04 11:57:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 86.0}
+2026-02-04 11:57:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 87.0}
+2026-02-04 11:57:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 88.0}
+2026-02-04 11:58:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 89.0}
+2026-02-04 11:58:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 90.0}
+2026-02-04 11:58:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 91.0}
+2026-02-04 11:58:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 92.0}
+2026-02-04 11:58:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 93.0}
+2026-02-04 11:58:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 94.0}
+2026-02-04 11:58:01 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 95.0}
+2026-02-04 11:58:01 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 96.0}
+2026-02-04 11:58:01 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 97.0}
+2026-02-04 11:58:01 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 98.0}
+2026-02-04 11:58:01 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 99.0}
+2026-02-04 11:58:01 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 100.0}
+2026-02-04 11:58:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 101.0}
+2026-02-04 11:58:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 102.0}
+2026-02-04 11:58:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 103.0}
+2026-02-04 11:58:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 104.0}
+2026-02-04 11:58:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 105.0}
+2026-02-04 11:58:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 106.0}
+2026-02-04 11:58:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 107.0}
+2026-02-04 11:58:03 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 108.0}
+2026-02-04 11:58:03 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 109.0}
+2026-02-04 11:58:03 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 110.0}
+2026-02-04 11:58:03 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 111.0}
+2026-02-04 11:58:03 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 112.0}
+2026-02-04 11:58:03 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 113.0}
+2026-02-04 11:58:04 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 114.0}
+2026-02-04 11:58:04 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 115.0}
+2026-02-04 11:58:04 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 116.0}
+2026-02-04 11:58:04 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 117.0}
+2026-02-04 11:58:04 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 118.0}
+2026-02-04 11:58:04 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 119.0}
+2026-02-04 11:58:05 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 120.0}
+2026-02-04 11:58:05 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 121.0}
+2026-02-04 11:58:05 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 122.0}
+2026-02-04 11:58:05 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 123.0}
+2026-02-04 11:58:05 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 124.0}
+2026-02-04 11:58:05 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 125.0}
+2026-02-04 11:58:05 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 126.0}
+2026-02-04 11:58:06 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 127.0}
+2026-02-04 11:58:06 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 128.0}
+2026-02-04 11:58:06 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 129.0}
+2026-02-04 11:58:06 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 130.0}
+2026-02-04 11:58:06 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 131.0}
+2026-02-04 11:58:06 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 132.0}
+2026-02-04 11:58:07 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 133.0}
+2026-02-04 11:58:07 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 134.0}
+2026-02-04 11:58:07 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 135.0}
+2026-02-04 11:58:07 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 136.0}
+2026-02-04 11:58:07 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 137.0}
+2026-02-04 11:58:07 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 138.0}
+2026-02-04 11:58:07 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 139.0}
+2026-02-04 11:58:08 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 140.0}
+2026-02-04 11:58:08 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 141.0}
+2026-02-04 11:58:08 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 142.0}
+2026-02-04 11:58:08 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 143.0}
+2026-02-04 11:58:08 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 144.0}
+2026-02-04 11:58:09 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 145.0}
+2026-02-04 11:58:09 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 146.0}
+2026-02-04 11:58:09 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 147.0}
+2026-02-04 11:58:09 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 148.0}
+2026-02-04 11:58:10 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 149.0}
+2026-02-04 11:58:10 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 150.0}
+2026-02-04 11:58:47 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-04 11:58:47 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出

@@ -10,8 +10,12 @@ from PyQt6.QtWidgets import (
 )
 from PyQt6.QtCore import Qt, pyqtSignal
 
-from config import Config
-from logger_utils import logger
+from config import get_settings
+from utils.logger import get_logger
+
+# 獲取配置和日誌實例
+settings = get_settings()
+logger = get_logger()
 
 
 class ParameterPanel(QWidget):
@@ -73,8 +77,8 @@ class ParameterPanel(QWidget):
         
         # 飛行高度
         self.altitude_spin = QDoubleSpinBox()
-        self.altitude_spin.setRange(Config.SAFETY_SETTINGS.min_altitude_m, 
-                                   Config.SAFETY_SETTINGS.max_altitude_m)
+        self.altitude_spin.setRange(settings.safety.min_altitude_m, 
+                                settings.safety.max_altitude_m)
         self.altitude_spin.setValue(self.parameters['altitude'])
         self.altitude_spin.setSuffix(" m")
         self.altitude_spin.setDecimals(1)
@@ -83,8 +87,8 @@ class ParameterPanel(QWidget):
         
         # 飛行速度
         self.speed_spin = QDoubleSpinBox()
-        self.speed_spin.setRange(Config.SAFETY_SETTINGS.min_speed_mps, 
-                                Config.SAFETY_SETTINGS.max_speed_mps)
+        self.speed_spin.setRange(settings.safety.min_speed_mps, 
+                                settings.safety.max_speed_mps)
         self.speed_spin.setValue(self.parameters['speed'])
         self.speed_spin.setSuffix(" m/s")
         self.speed_spin.setDecimals(1)
@@ -122,8 +126,8 @@ class ParameterPanel(QWidget):
         
         # 航線間距
         self.spacing_spin = QDoubleSpinBox()
-        self.spacing_spin.setRange(Config.SAFETY_SETTINGS.min_spacing_m, 
-                                  Config.SAFETY_SETTINGS.max_spacing_m)
+        self.spacing_spin.setRange(settings.safety.min_spacing_m, 
+                                settings.safety.max_spacing_m)
         self.spacing_spin.setValue(self.parameters['spacing'])
         self.spacing_spin.setSuffix(" m")
         self.spacing_spin.setDecimals(1)
@@ -132,7 +136,14 @@ class ParameterPanel(QWidget):
         
         # 子區域分割
         self.subdivision_combo = QComboBox()
-        self.subdivision_combo.addItems(["1 (不分割)", "2 區域", "3 區域", "4 區域 (2x2)"])
+        self.subdivision_combo.addItems([
+            "1 (不分割)", 
+            "2 區域", 
+            "3 區域", 
+            "4 區域 (2x2)", 
+            "5 區域",
+            "6 區域 (2x3)"
+        ])
         self.subdivision_combo.setCurrentIndex(0)
         self.subdivision_combo.currentIndexChanged.connect(self.on_subdivision_changed)
         layout.addRow("區域分割:", self.subdivision_combo)
@@ -174,7 +185,7 @@ class ParameterPanel(QWidget):
         # 安全距離顯示（只讀）
         safety_layout = QHBoxLayout()
         safety_layout.addWidget(QLabel("安全距離:"))
-        safety_label = QLabel(f"{Config.SAFETY_DISTANCE_M} m")
+        safety_label = QLabel(f"{settings.safety.default_safety_distance_m} m")
         safety_label.setStyleSheet("color: #4CAF50; font-weight: bold;")
         safety_layout.addWidget(safety_label)
         safety_layout.addStretch()

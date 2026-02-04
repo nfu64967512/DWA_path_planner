@@ -10,7 +10,10 @@ from PyQt6.QtWidgets import (
 from PyQt6.QtCore import Qt, pyqtSignal
 from PyQt6.QtGui import QFont
 
-from logger_utils import logger
+from utils.logger import get_logger
+
+# 獲取日誌實例
+logger = get_logger()
 
 
 class MissionPanel(QWidget):
