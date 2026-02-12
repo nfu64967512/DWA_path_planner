@@ -1,0 +1,749 @@
+2026-02-12 00:42:02 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 00:42:02 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 00:42:02 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 00:42:02 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 00:42:02 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 00:42:02 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 0 種類型
+2026-02-12 00:42:02 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 00:42:02 - UAVPathPlanner - [31mERROR[0m - PyQt6 未安裝，無法啟動 GUI 模式
+2026-02-12 00:42:02 - UAVPathPlanner - [32mINFO[0m - 請安裝: pip install PyQt6 PyQt6-WebEngine
+2026-02-12 00:42:02 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 00:50:10 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 00:50:10 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 00:50:10 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 00:50:10 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 00:50:10 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 00:50:10 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 00:50:10 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 00:50:15 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 00:50:18 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_370183030832f480e467d1f3c6e78238
+2026-02-12 00:50:18 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 00:50:18 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 00:50:18 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 00:50:18 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 00:50:19 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 00:50:19 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 00:50:19 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 00:50:19 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 00:50:22 - UAVPathPlanner - [32mINFO[0m - 地圖點擊處理器將延遲重試
+2026-02-12 00:51:14 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 00:51:14 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 00:51:19 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 00:51:19 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 00:51:19 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 00:51:19 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 00:51:19 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 00:51:19 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 00:51:19 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 00:51:19 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 00:51:20 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_43a922157ed572b214cf77562aa5dbf5
+2026-02-12 00:51:20 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 00:51:20 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 00:51:20 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 00:51:20 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 00:51:20 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 00:51:20 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 00:51:20 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 00:51:20 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_56c56b7ad59cfacf9a6cc9f6d80ca874
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_56c56b7ad59cfacf9a6cc9f6d80ca874
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #1: (23.703632, 120.418433) [剩餘: 99]
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #1: (23.703632, 120.418433) [剩餘: 99]
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_56c56b7ad59cfacf9a6cc9f6d80ca874
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #2: (23.703632, 120.420233) [剩餘: 98]
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #2: (23.703632, 120.420233) [剩餘: 98]
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_56c56b7ad59cfacf9a6cc9f6d80ca874
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #3: (23.701832, 120.420233) [剩餘: 97]
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #3: (23.701832, 120.420233) [剩餘: 97]
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_56c56b7ad59cfacf9a6cc9f6d80ca874
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #4: (23.701832, 120.418433) [剩餘: 96]
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #4: (23.701832, 120.418433) [剩餘: 96]
+2026-02-12 00:51:22 - UAVPathPlanner - [32mINFO[0m - 已添加預設測試區域（4個角點）
+2026-02-12 00:51:23 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_1758fb54ad61b61d365b75b0a50bd7bc
+2026-02-12 00:51:23 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 00:51:23 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_1758fb54ad61b61d365b75b0a50bd7bc
+2026-02-12 00:51:23 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-12 00:51:23 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_1758fb54ad61b61d365b75b0a50bd7bc
+2026-02-12 00:51:23 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_1758fb54ad61b61d365b75b0a50bd7bc
+2026-02-12 00:51:23 - UAVPathPlanner - [32mINFO[0m - 顯示路徑：20 個航點
+2026-02-12 00:51:23 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 20 個航點
+2026-02-12 00:51:23 - UAVPathPlanner - [32mINFO[0m - 地圖點擊處理器將延遲重試
+2026-02-12 00:51:25 - UAVPathPlanner - [32mINFO[0m - 地圖點擊處理器將延遲重試
+2026-02-12 00:51:28 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral
+2026-02-12 00:51:28 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'spiral'}
+2026-02-12 00:51:28 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral - 螺旋掃描：從外圍向中心螺旋掃描
+2026-02-12 00:51:30 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_aabf7407cef08ae9aaf9cca16f02363d
+2026-02-12 00:51:30 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 00:51:30 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_aabf7407cef08ae9aaf9cca16f02363d
+2026-02-12 00:51:30 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-12 00:51:30 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_aabf7407cef08ae9aaf9cca16f02363d
+2026-02-12 00:51:30 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_aabf7407cef08ae9aaf9cca16f02363d
+2026-02-12 00:51:30 - UAVPathPlanner - [32mINFO[0m - 顯示路徑：34 個航點
+2026-02-12 00:51:31 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：34 個航點，距離 329m
+2026-02-12 00:51:31 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 00:51:32 - UAVPathPlanner - [32mINFO[0m - 地圖點擊處理器將延遲重試
+2026-02-12 00:51:40 - UAVPathPlanner - [32mINFO[0m - 演算法變更: astar
+2026-02-12 00:51:40 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'astar'}
+2026-02-12 00:51:40 - UAVPathPlanner - [32mINFO[0m - 演算法變更: astar - A* 演算法：使用啟發式搜索的最短路徑
+2026-02-12 00:51:41 - UAVPathPlanner - [31mERROR[0m - 預覽失敗: CoordinateTransform.latlon_to_xy() missing 1 required positional argument: 'lon'
+2026-02-12 00:51:42 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 00:51:44 - UAVPathPlanner - [32mINFO[0m - 演算法變更: grid
+2026-02-12 00:51:44 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'grid'}
+2026-02-12 00:51:44 - UAVPathPlanner - [32mINFO[0m - 演算法變更: grid - 網格掃描：適合覆蓋測繪任務，之字形路徑
+2026-02-12 00:51:45 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_64988d6688c94ac60d43004752bfc783
+2026-02-12 00:51:45 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 00:51:45 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_64988d6688c94ac60d43004752bfc783
+2026-02-12 00:51:45 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-12 00:51:45 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_64988d6688c94ac60d43004752bfc783
+2026-02-12 00:51:45 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_64988d6688c94ac60d43004752bfc783
+2026-02-12 00:51:45 - UAVPathPlanner - [32mINFO[0m - 顯示路徑：20 個航點
+2026-02-12 00:51:46 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：20 個航點，距離 2012m
+2026-02-12 00:51:46 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 00:51:46 - UAVPathPlanner - [32mINFO[0m - 地圖點擊處理器將延遲重試
+2026-02-12 00:51:47 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -78.0}
+2026-02-12 00:51:48 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_9e2d3c5c09c82f859a97871af87e19b8
+2026-02-12 00:51:48 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 00:51:48 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_9e2d3c5c09c82f859a97871af87e19b8
+2026-02-12 00:51:48 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-12 00:51:48 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_9e2d3c5c09c82f859a97871af87e19b8
+2026-02-12 00:51:48 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_9e2d3c5c09c82f859a97871af87e19b8
+2026-02-12 00:51:48 - UAVPathPlanner - [32mINFO[0m - 顯示路徑：24 個航點
+2026-02-12 00:51:50 - UAVPathPlanner - [32mINFO[0m - 地圖點擊處理器將延遲重試
+2026-02-12 00:51:50 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：24 個航點，距離 2210m
+2026-02-12 00:51:50 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 00:51:51 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 00:51:53 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 01:49:30 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 01:49:30 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 01:49:30 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 01:49:30 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 01:49:30 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 01:49:30 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 01:49:30 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 01:49:30 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 01:49:31 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_88da99dd452c184ffa44f0dba6b5b5c5
+2026-02-12 01:49:31 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 01:49:31 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 01:49:31 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 01:49:31 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 01:49:31 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 01:49:31 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 01:49:31 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 01:49:31 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 01:49:33 - UAVPathPlanner - [32mINFO[0m - 🔄 地圖點擊處理器將延遲重試
+2026-02-12 01:49:40 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_88da99dd452c184ffa44f0dba6b5b5c5
+2026-02-12 01:49:40 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #1: (23.702732, 120.419333) [剩餘: 99]
+2026-02-12 01:49:40 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #1: (23.702732, 120.419333) [剩餘: 99]
+2026-02-12 01:49:40 - UAVPathPlanner - [32mINFO[0m - 手動新增角點: (23.702732, 120.419333)
+2026-02-12 01:49:42 - UAVPathPlanner - [32mINFO[0m - 🔄 地圖點擊處理器將延遲重試
+2026-02-12 01:49:45 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_88da99dd452c184ffa44f0dba6b5b5c5
+2026-02-12 01:49:45 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #2: (23.702732, 120.419333) [剩餘: 98]
+2026-02-12 01:49:45 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #2: (23.702732, 120.419333) [剩餘: 98]
+2026-02-12 01:49:45 - UAVPathPlanner - [32mINFO[0m - 手動新增角點: (23.702732, 120.419333)
+2026-02-12 01:49:46 - UAVPathPlanner - [32mINFO[0m - 🔄 地圖點擊處理器將延遲重試
+2026-02-12 01:49:47 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 01:49:47 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 01:53:34 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 01:53:34 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 01:53:34 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 01:53:34 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 01:53:34 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 01:53:34 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 01:53:34 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 01:53:34 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 01:53:35 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_4a1cfb9eeaae0adf680d64f667d7c856
+2026-02-12 01:53:35 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 01:53:35 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 01:53:35 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 01:53:35 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 01:53:35 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 01:53:35 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 01:53:35 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 01:53:35 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 01:53:39 - UAVPathPlanner - [32mINFO[0m - 🔄 地圖點擊處理器將延遲重試
+2026-02-12 01:53:58 - UAVPathPlanner - [32mINFO[0m - 多邊形編輯器地圖初始化成功
+2026-02-12 01:53:58 - UAVPathPlanner - [32mINFO[0m - 多邊形編輯器初始化完成，最大角點數: 100
+2026-02-12 01:53:58 - UAVPathPlanner - [32mINFO[0m - 已開啟多邊形編輯器
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_0882a0e455bfec1e7780c3c0d14746e9
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_0882a0e455bfec1e7780c3c0d14746e9
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #1: (23.703632, 120.418433) [剩餘: 99]
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #1: (23.703632, 120.418433) [剩餘: 99]
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_0882a0e455bfec1e7780c3c0d14746e9
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #2: (23.703632, 120.420233) [剩餘: 98]
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #2: (23.703632, 120.420233) [剩餘: 98]
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_0882a0e455bfec1e7780c3c0d14746e9
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #3: (23.701832, 120.420233) [剩餘: 97]
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #3: (23.701832, 120.420233) [剩餘: 97]
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_0882a0e455bfec1e7780c3c0d14746e9
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #4: (23.701832, 120.418433) [剩餘: 96]
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #4: (23.701832, 120.418433) [剩餘: 96]
+2026-02-12 01:54:11 - UAVPathPlanner - [32mINFO[0m - 已添加預設測試區域（4個角點）
+2026-02-12 01:54:12 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_2b9af4e0fb816d00daf2cc41044ed21d
+2026-02-12 01:54:12 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 01:54:12 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_2b9af4e0fb816d00daf2cc41044ed21d
+2026-02-12 01:54:12 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-12 01:54:12 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_2b9af4e0fb816d00daf2cc41044ed21d
+2026-02-12 01:54:12 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_2b9af4e0fb816d00daf2cc41044ed21d
+2026-02-12 01:54:12 - UAVPathPlanner - [32mINFO[0m - 顯示路徑：20 個航點
+2026-02-12 01:54:12 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 20 個航點
+2026-02-12 01:54:14 - UAVPathPlanner - [32mINFO[0m - 🔄 地圖點擊處理器將延遲重試
+2026-02-12 01:54:15 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_c71a941ae9589931af503875caf75633
+2026-02-12 01:54:15 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 01:54:15 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_c71a941ae9589931af503875caf75633
+2026-02-12 01:54:15 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-12 01:54:15 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_c71a941ae9589931af503875caf75633
+2026-02-12 01:54:15 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_c71a941ae9589931af503875caf75633
+2026-02-12 01:54:15 - UAVPathPlanner - [32mINFO[0m - 顯示路徑：20 個航點
+2026-02-12 01:54:16 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：20 個航點，距離 2012m
+2026-02-12 01:54:16 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 01:54:17 - UAVPathPlanner - [32mINFO[0m - 🔄 地圖點擊處理器將延遲重試
+2026-02-12 01:54:19 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 01:54:20 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 01:54:53 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 01:54:53 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 01:54:53 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 01:54:53 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 01:54:53 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 01:54:53 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 01:54:53 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 01:54:53 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 01:54:54 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_f8c8c7d53aef5adca4429565d1347f12
+2026-02-12 01:54:54 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 01:54:54 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 01:54:54 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 01:54:54 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 01:54:54 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 01:54:54 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 01:54:54 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 01:54:54 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 01:54:56 - UAVPathPlanner - [32mINFO[0m - 🔄 地圖點擊處理器將延遲重試
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_376c1d21ccf2f9ff0a7629fbbad31d04
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 01:59:30 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 01:59:30 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 01:59:31 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 01:59:33 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 01:59:38 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 01:59:38 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_7f3915a5d3daddc063c494b5dfeff0db
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 01:59:40 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 01:59:40 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 01:59:41 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 01:59:43 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:00:09 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:00:09 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 02:00:26 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:00:26 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:00:26 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:00:26 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:00:26 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:00:26 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:00:26 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:00:26 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:00:27 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_c6bd51b2ab4a4e89e000c6c1402564a3
+2026-02-12 02:00:27 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:00:27 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:00:27 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:00:27 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:00:27 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:00:27 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:00:27 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:00:27 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:00:29 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:01:53 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:01:53 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:01:53 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:01:53 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:01:53 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:01:53 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:01:53 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:01:53 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:01:54 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_709ee472231d89ffaaeae51fc5e93196
+2026-02-12 02:01:54 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:01:54 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:01:54 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:01:54 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:01:54 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:01:54 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:01:54 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:01:54 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:01:57 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:02:00 - UAVPathPlanner - [32mINFO[0m - 已打開 Tkinter 地圖視窗
+2026-02-12 02:02:03 - UAVPathPlanner - [32mINFO[0m - 已打開 Tkinter 地圖視窗
+2026-02-12 02:02:13 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_a457c57ff19ac1ca7c33529171c34682
+2026-02-12 02:02:13 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:02:13 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 02:02:13 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 02:02:13 - UAVPathPlanner - [32mINFO[0m - 請求清除所有角點
+2026-02-12 02:02:15 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:02:20 - UAVPathPlanner - [32mINFO[0m - 已打開 Tkinter 地圖視窗
+2026-02-12 02:02:21 - UAVPathPlanner - [32mINFO[0m - 已打開 Tkinter 地圖視窗
+2026-02-12 02:02:22 - UAVPathPlanner - [32mINFO[0m - 已打開 Tkinter 地圖視窗
+2026-02-12 02:02:23 - UAVPathPlanner - [32mINFO[0m - 已打開 Tkinter 地圖視窗
+2026-02-12 02:02:24 - UAVPathPlanner - [32mINFO[0m - 已打開 Tkinter 地圖視窗
+2026-02-12 02:02:49 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:02:49 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 02:05:33 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:05:33 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:05:33 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:05:33 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:05:33 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:05:34 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:05:34 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:05:34 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:05:34 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_0e0221a1c2afd30c1c275a812596d516
+2026-02-12 02:05:34 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:05:34 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:05:34 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:05:34 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:05:34 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:05:34 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:05:34 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:05:34 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:05:36 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:05:44 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 02:05:48 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dwa
+2026-02-12 02:05:48 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'dwa'}
+2026-02-12 02:05:48 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dwa - DWA 動態窗口：即時避障，適合動態環境
+2026-02-12 02:05:50 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_656340c8f0e5234fffaac2c605d02f8e
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_656340c8f0e5234fffaac2c605d02f8e
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #1: (23.703632, 120.418433) [剩餘: 99]
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #1: (23.703632, 120.418433) [剩餘: 99]
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_656340c8f0e5234fffaac2c605d02f8e
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #2: (23.703632, 120.420233) [剩餘: 98]
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #2: (23.703632, 120.420233) [剩餘: 98]
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_656340c8f0e5234fffaac2c605d02f8e
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #3: (23.701832, 120.420233) [剩餘: 97]
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #3: (23.701832, 120.420233) [剩餘: 97]
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_656340c8f0e5234fffaac2c605d02f8e
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #4: (23.701832, 120.418433) [剩餘: 96]
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 手動新增邊界點 #4: (23.701832, 120.418433) [剩餘: 96]
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 已添加預設測試區域（4個角點）
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_730fa421fc7179ed9b51c4ae10e3d797
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_730fa421fc7179ed9b51c4ae10e3d797
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_730fa421fc7179ed9b51c4ae10e3d797
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_730fa421fc7179ed9b51c4ae10e3d797
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 顯示路徑：20 個航點
+2026-02-12 02:05:51 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 20 個航點
+2026-02-12 02:05:53 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:06:00 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_af73c6b99bfae63015bf779937b25276
+2026-02-12 02:06:00 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:06:00 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 02:06:00 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 02:06:00 - UAVPathPlanner - [32mINFO[0m - 請求清除所有角點
+2026-02-12 02:06:02 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:06:10 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:06:10 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 02:07:16 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:07:16 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:07:16 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:07:16 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:07:16 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:07:17 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:07:17 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:07:17 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:07:17 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_efad085a8cc1ef6dce04263f7cbb4a61
+2026-02-12 02:07:17 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:07:17 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:07:17 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:07:17 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:07:17 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:07:17 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:07:17 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:07:17 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:07:19 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:07:37 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:07:37 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 02:10:42 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:10:42 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:10:42 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:10:42 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:10:42 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:10:42 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:10:42 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:10:42 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:10:43 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_113f003410146e04da4f7de0e349a7c1
+2026-02-12 02:10:43 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:10:43 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:10:43 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:10:43 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:10:43 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:10:43 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:10:43 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:10:43 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:10:46 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:18:23 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:18:24 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_19ad0d2fd2c4043d6c732144c7b84aae
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:18:29 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:18:29 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:18:30 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:18:31 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:20:46 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:20:46 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_19b65da9c139167192c8bb807fb67033
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:20:47 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:20:47 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:20:49 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:20:56 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:20:56 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 02:20:56 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:20:56 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:20:56 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:20:56 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:20:56 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:20:56 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:20:56 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:20:56 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:20:57 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_a15f8dd9fb10b4328dbca9793d84aa90
+2026-02-12 02:20:57 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:20:57 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:20:57 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:20:57 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:20:57 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:20:57 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:20:57 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:20:57 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:20:59 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:23:36 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:23:36 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 02:29:46 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:29:46 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:29:46 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:29:46 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:29:46 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:29:46 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:29:46 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:29:46 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:29:47 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_02f614a96ed6a8f1cd888641bca5570b
+2026-02-12 02:29:47 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:29:47 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:29:47 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:29:47 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:29:47 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:29:47 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:29:47 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:29:47 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:29:49 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:30:12 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:30:12 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 02:36:19 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:36:19 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:36:19 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:36:19 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:36:19 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:36:19 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:36:19 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:36:19 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:36:19 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_5d1a7258b48be942a765a364f86575ee
+2026-02-12 02:36:20 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:36:20 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:36:20 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:36:20 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:36:20 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:36:20 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:36:20 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:36:20 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:36:22 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:36:55 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:36:55 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 02:38:50 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:38:50 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:38:50 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:38:50 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:38:50 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:38:50 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:38:50 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:38:50 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:38:51 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_f9632aa0bbc856fa503dd91052f48a32
+2026-02-12 02:38:51 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:38:51 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:38:51 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:38:51 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:38:51 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:38:51 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:38:51 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:38:51 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:38:53 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:40:16 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:40:17 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 02:44:35 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:44:35 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 02:44:35 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 02:44:35 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 02:44:35 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 02:44:35 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 02:44:35 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 02:44:35 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 02:44:36 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_375a4b50d3774f48b35c2720c8f5721b
+2026-02-12 02:44:36 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 02:44:36 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 02:44:36 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 02:44:36 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 02:44:36 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 02:44:36 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 02:44:36 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 02:44:36 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 02:44:41 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 02:44:49 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 02:44:49 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 09:29:23 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 09:29:23 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 09:29:23 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 09:29:23 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 09:29:23 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 09:29:23 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 09:29:23 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 09:29:23 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 09:29:24 - UAVPathPlanner - [32mINFO[0m - 找到 folium 地圖變數: map_b7427a3a635e9bce4dcf1e6ee9934138
+2026-02-12 09:29:24 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 09:29:24 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 09:29:24 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 09:29:24 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 09:29:25 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 09:29:25 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 09:29:25 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 09:29:25 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 09:29:29 - UAVPathPlanner - [32mINFO[0m - ⏳ 等待 HTML 中的 JavaScript 代码初始化地图点击处理器...
+2026-02-12 09:29:37 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 09:29:37 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 09:41:06 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 09:41:06 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 09:41:06 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 09:41:06 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 09:41:06 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 09:41:06 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 09:41:06 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 09:41:06 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 09:41:07 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 09:41:07 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 09:41:07 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 09:41:07 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 09:41:07 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 09:41:07 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 09:41:07 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 09:41:07 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 09:41:17 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 09:41:17 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 10:11:38 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 10:11:38 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 10:11:38 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 10:11:38 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 10:11:38 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 10:11:38 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 10:11:38 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 10:11:38 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 10:11:39 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 10:11:39 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 10:11:39 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 10:11:39 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 10:11:39 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 10:11:39 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 10:11:39 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 10:11:39 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 10:11:42 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702920, 120.420628), 編輯模式=True
+2026-02-12 10:11:42 - UAVPathPlanner - [32mINFO[0m - 新增角點 #1: (23.702920, 120.420628)
+2026-02-12 10:11:42 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #1: (23.702920, 120.420628) [剩餘: 99]
+2026-02-12 10:11:42 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 1)
+2026-02-12 10:11:44 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702468, 120.420697), 編輯模式=True
+2026-02-12 10:11:44 - UAVPathPlanner - [32mINFO[0m - 新增角點 #2: (23.702468, 120.420697)
+2026-02-12 10:11:44 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #2: (23.702468, 120.420697) [剩餘: 98]
+2026-02-12 10:11:44 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 2)
+2026-02-12 10:11:45 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702439, 120.421432), 編輯模式=True
+2026-02-12 10:11:45 - UAVPathPlanner - [32mINFO[0m - 新增角點 #3: (23.702439, 120.421432)
+2026-02-12 10:11:45 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #3: (23.702439, 120.421432) [剩餘: 97]
+2026-02-12 10:11:45 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 3)
+2026-02-12 10:11:46 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 6 個航點
+2026-02-12 10:11:46 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 6 個航點
+2026-02-12 10:11:47 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702871, 120.421566), 編輯模式=True
+2026-02-12 10:11:47 - UAVPathPlanner - [32mINFO[0m - 新增角點 #4: (23.702871, 120.421566)
+2026-02-12 10:11:47 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #4: (23.702871, 120.421566) [剩餘: 96]
+2026-02-12 10:11:47 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 4)
+2026-02-12 10:11:47 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 6 個航點
+2026-02-12 10:11:47 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 6 個航點
+2026-02-12 10:11:55 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 10:11:55 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 10:11:55 - UAVPathPlanner - [32mINFO[0m - 請求清除所有角點
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 請求清除所有角點
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 請求清除所有角點
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 請求清除所有角點
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 10:11:57 - UAVPathPlanner - [32mINFO[0m - 請求清除所有角點
+2026-02-12 10:11:58 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 10:11:58 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 10:11:58 - UAVPathPlanner - [32mINFO[0m - 請求清除所有角點
+2026-02-12 10:12:00 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702227, 120.422891), 編輯模式=True
+2026-02-12 10:12:00 - UAVPathPlanner - [32mINFO[0m - 新增角點 #1: (23.702227, 120.422891)
+2026-02-12 10:12:00 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #1: (23.702227, 120.422891) [剩餘: 99]
+2026-02-12 10:12:00 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 1)
+2026-02-12 10:12:02 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.701815, 120.422897), 編輯模式=True
+2026-02-12 10:12:02 - UAVPathPlanner - [32mINFO[0m - 新增角點 #2: (23.701815, 120.422897)
+2026-02-12 10:12:02 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #2: (23.701815, 120.422897) [剩餘: 98]
+2026-02-12 10:12:02 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 2)
+2026-02-12 10:12:04 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.701805, 120.423412), 編輯模式=True
+2026-02-12 10:12:04 - UAVPathPlanner - [32mINFO[0m - 新增角點 #3: (23.701805, 120.423412)
+2026-02-12 10:12:04 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #3: (23.701805, 120.423412) [剩餘: 97]
+2026-02-12 10:12:04 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 3)
+2026-02-12 10:12:04 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 6 個航點
+2026-02-12 10:12:04 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 6 個航點
+2026-02-12 10:12:06 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702222, 120.423401), 編輯模式=True
+2026-02-12 10:12:06 - UAVPathPlanner - [32mINFO[0m - 新增角點 #4: (23.702222, 120.423401)
+2026-02-12 10:12:06 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #4: (23.702222, 120.423401) [剩餘: 96]
+2026-02-12 10:12:06 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 4)
+2026-02-12 10:12:06 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 6 個航點
+2026-02-12 10:12:06 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 6 個航點
+2026-02-12 10:12:11 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 2.0}
+2026-02-12 10:12:11 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 48 個航點
+2026-02-12 10:12:12 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：48 個航點，距離 1244m
+2026-02-12 10:12:17 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 10:12:17 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-12 10:14:02 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 10:14:02 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-12 10:14:02 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-12 10:14:02 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-12 10:14:02 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-12 10:14:02 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-12 10:14:02 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-12 10:14:02 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-12 10:14:03 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-12 10:14:03 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-12 10:14:03 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-12 10:14:03 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-12 10:14:03 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-12 10:14:03 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-12 10:14:03 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-12 10:14:03 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-12 10:14:13 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.704389, 120.418439), 編輯模式=True
+2026-02-12 10:14:13 - UAVPathPlanner - [32mINFO[0m - 新增角點 #1: (23.704389, 120.418439)
+2026-02-12 10:14:13 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #1: (23.704389, 120.418439) [剩餘: 99]
+2026-02-12 10:14:13 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 1)
+2026-02-12 10:14:15 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-12 10:14:15 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-12 10:14:15 - UAVPathPlanner - [32mINFO[0m - 請求清除所有角點
+2026-02-12 10:14:18 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702340, 120.422570), 編輯模式=True
+2026-02-12 10:14:18 - UAVPathPlanner - [32mINFO[0m - 新增角點 #1: (23.702340, 120.422570)
+2026-02-12 10:14:18 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #1: (23.702340, 120.422570) [剩餘: 99]
+2026-02-12 10:14:18 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 1)
+2026-02-12 10:14:21 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.701250, 120.422806), 編輯模式=True
+2026-02-12 10:14:21 - UAVPathPlanner - [32mINFO[0m - 新增角點 #2: (23.701250, 120.422806)
+2026-02-12 10:14:21 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #2: (23.701250, 120.422806) [剩餘: 98]
+2026-02-12 10:14:21 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 2)
+2026-02-12 10:14:23 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.701240, 120.425327), 編輯模式=True
+2026-02-12 10:14:23 - UAVPathPlanner - [32mINFO[0m - 新增角點 #3: (23.701240, 120.425327)
+2026-02-12 10:14:23 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #3: (23.701240, 120.425327) [剩餘: 97]
+2026-02-12 10:14:23 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 3)
+2026-02-12 10:14:23 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 14 個航點
+2026-02-12 10:14:23 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 14 個航點
+2026-02-12 10:14:25 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.703116, 120.424780), 編輯模式=True
+2026-02-12 10:14:25 - UAVPathPlanner - [32mINFO[0m - 新增角點 #4: (23.703116, 120.424780)
+2026-02-12 10:14:25 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #4: (23.703116, 120.424780) [剩餘: 96]
+2026-02-12 10:14:25 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 4)
+2026-02-12 10:14:26 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 22 個航點
+2026-02-12 10:14:26 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 22 個航點
+2026-02-12 10:14:29 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral
+2026-02-12 10:14:29 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'spiral'}
+2026-02-12 10:14:29 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral - 螺旋掃描：從外圍向中心螺旋掃描
+2026-02-12 10:14:30 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 38 個航點
+2026-02-12 10:14:32 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：38 個航點，距離 493m
+2026-02-12 10:14:32 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 10:14:35 - UAVPathPlanner - [32mINFO[0m - 演算法變更: astar
+2026-02-12 10:14:35 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'astar'}
+2026-02-12 10:14:35 - UAVPathPlanner - [32mINFO[0m - 演算法變更: astar - A* 演算法：使用啟發式搜索的最短路徑
+2026-02-12 10:14:35 - UAVPathPlanner - [31mERROR[0m - 預覽失敗: CoordinateTransform.latlon_to_xy() missing 1 required positional argument: 'lon'
+2026-02-12 10:14:37 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 10:14:40 - UAVPathPlanner - [32mINFO[0m - 演算法變更: rrt_star
+2026-02-12 10:14:40 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'rrt_star'}
+2026-02-12 10:14:40 - UAVPathPlanner - [32mINFO[0m - 演算法變更: rrt_star - RRT* 演算法：RRT 的最優化版本
+2026-02-12 10:14:41 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 8 個航點
+2026-02-12 10:14:43 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：8 個航點，距離 249m
+2026-02-12 10:14:43 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 10:14:46 - UAVPathPlanner - [32mINFO[0m - 演算法變更: rrt
+2026-02-12 10:14:46 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'rrt'}
+2026-02-12 10:14:46 - UAVPathPlanner - [32mINFO[0m - 演算法變更: rrt - RRT 演算法：快速探索隨機樹，適合複雜環境
+2026-02-12 10:14:47 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 31 個航點
+2026-02-12 10:14:49 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：31 個航點，距離 306m
+2026-02-12 10:14:49 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 10:14:51 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dijkstra
+2026-02-12 10:14:51 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'dijkstra'}
+2026-02-12 10:14:51 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dijkstra - Dijkstra 演算法：保證最短路徑
+2026-02-12 10:14:52 - UAVPathPlanner - [31mERROR[0m - 預覽失敗: CoordinateTransform.latlon_to_xy() missing 1 required positional argument: 'lon'
+2026-02-12 10:14:53 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 10:14:54 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dwa
+2026-02-12 10:14:54 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'dwa'}
+2026-02-12 10:14:54 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dwa - DWA 動態窗口：即時避障，適合動態環境
+2026-02-12 10:14:59 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 4 個航點
+2026-02-12 10:15:02 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：4 個航點，距離 596m
+2026-02-12 10:15:02 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-12 10:15:04 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-12 10:15:04 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
